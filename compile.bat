@@ -1,3 +1,6 @@
+@echo off
+
+:compile
 del "Game\rh-atlus.gba"
 copy "Game\rh-jpn.gba" "Game\rh-atlus.gba"
 atlas "Game\rh-atlus.gba" script_fix.txt
@@ -92,3 +95,4 @@ rhcomp.exe Graphics/MusicSelect/CD62EC_musicselect_map.bin
 rhcomp.exe Graphics/MusicSelect/CD6434_musicselect_warning_map.bin
 armips.exe compile.asm -sym mysym.sym
 pause
+goto compile

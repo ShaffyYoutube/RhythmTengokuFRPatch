@@ -1,4 +1,0 @@
-# Ignore Game folder because it's not needed
-Game\
-# Ignore all GBA files for copyrigth issues
-*.gba

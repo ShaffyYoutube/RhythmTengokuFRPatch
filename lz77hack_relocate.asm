@@ -26,12 +26,12 @@ push r5,r14
 	ldrb r0,[r3,0xC]
 	ldrb r4,[r3,0x3]
 	lsr r4,7
-	cmp r4,1
-	beq @@NotCompressed
-	cmp r0,0
-	beq @@NotCompressed
+	; cmp r4,1
+	; beq @@NotCompressed
+	; cmp r0,0
+	; beq @@NotCompressed
 	ldr r1,[r5,0x10]
-	.msg "%r3% -> %r1%"
+	.msg "Graphismes charger à 0x%r3% -> 0x%r1%" ;Thanks Windows Tiger
 	@@NotCompressed:
 	pop r0-r7
 .endif

@@ -1,10 +1,11 @@
 .gba
-.open "Game/rh-atlus.gba","Game/rh-eng.gba", 0x08000000
+.open "Game/rh-atlus.gba","Game/rh-fra.gba", 0x08000000
 
 _skipwarningscreen equ 1
 _skiprhythmtest equ 0
-_debug equ 0
-_nocashmessages equ 0
+_debug equ 1
+_debugmenu equ 1
+_nocashmessages equ 1
 _luaconsolemessages equ 1
 _spriteluaconsolemessages equ 1
 
