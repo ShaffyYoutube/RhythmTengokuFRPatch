@@ -4634,7 +4634,7 @@ Cafe[;
 // --- Literal
 //Karate-ist[;
 // --- Edited (This is the name of the game when you highlight it in the level select -Niko)
-Karate Man[;
+Karatéka[;
 #WRITE(RtPtr, $9DDEAC)
 // 0x805988c
 //カラテカ[;
@@ -4652,10 +4652,10 @@ Karate Man[;
 //Punch the incoming objects with button A![l
 //It's a common game... right?[;
 // --- Edited//ing//nse...
-This is karate[l
-training at its most[l
-intense! (Or, at its[l
-most unorthodox...)[;
+Il faut du rythme[l
+pour un beau karaté.[l
+Faites parler vos[l
+poings en cadence![;
 #WRITE(RtPtr, $9EF2B0)
 // 0x805abec
 //ようこそ！[l
@@ -4665,9 +4665,9 @@ most unorthodox...)[;
 //[l
 //to the Karate Master game.[;
 // --- Edited
-Welcome![l
-This is the[l
-Karate Man game.[;
+Bienvenue![l
+Ceci est le jeu[l
+du Karatéka.[;
 #WRITE(RtPtr, $9EF310)
 // 0x805ac0c
 //このゲームは、Aボタンで「モノ」をパンチするだけだけどもタイミングが超シビアです。[;
@@ -4821,7 +4821,7 @@ There's always tomorrow.[;
 // --- Literal
 //Rhythm Hair Removal[;
 // --- Edited
-Vegeta-Pull[;
+Pince Poilante[;
 #WRITE(RtPtr, $9CE44C)
 // 0x8053f64
 //どんどん生えてくる[l
@@ -4833,10 +4833,10 @@ Vegeta-Pull[;
 //Pluck'em,[l
 //pluck'em![;
 // --- Edited
-These weird hairs[l
-keep growing![l
-Pluck'em,[l
-pluck'em![;
+Faites la peau[l
+aux poils et la[l
+peau lisse aux[l
+oignons ![;
 #WRITE(RtPtr, $9FB17C)
 // 0x805b544
 //ようこそ。[;
@@ -4979,7 +4979,7 @@ I can't sell this![;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+En avant, marche![;
 #WRITE(RtPtr, $9CE60C)
 // 0x805360c
 //行進をするのだ。[l
@@ -4996,10 +4996,10 @@ Marcher[;
 //One man's mistake[l
 //will hurt the whole[l
 //team. Do your best.[;
-Time to march! ...But[l
-I wish the commander[l
-wouldn't speak in[l
-Japanese.[;
+Le rythme fait l'union[l
+qui fait la force ![l
+Suivez les ordres[l
+du sergent ![;
 #WRITE(RtPtr, $A11C38)
 // 0x805c8c4
 //れんしゅうを　はじめる！[;
@@ -5085,7 +5085,7 @@ Aaah! We got left behind![;
 // --- Literal
 //Air Batter[;
 // --- Edited
-Spaceball Game[;
+Baseball Spatial[;
 #WRITE(RtPtr, $9CE58C)
 // 0x805389c
 //ズームをきにするな！[l
@@ -5098,10 +5098,10 @@ Spaceball Game[;
 //Don't depend on your sight![l
 //Go with a bang![;
 // --- Edited
-Don't worry about[l
-the zoom! Follow[l
-the trajectories[l
-in your heart![;
+Concentrez-vous sur[l
+la balle et ne vous[l
+laissez pas tromper[l
+par les zooms ![;
 #WRITE(RtPtr, $A08DD0)
 // 0x805bff8
 //つうしんぼ[;
@@ -5178,7 +5178,7 @@ I hope this makes it up to you.[;
 // --- Literal
 //Clap Clap Trio[;
 // --- Edited
-The Clappy Trio[;
+Trio Clap Clap[;
 #WRITE(RtPtr, $9CE38C)
 // 0x8054398
 //順番に拍手をするヨ！[l
@@ -5189,10 +5189,10 @@ The Clappy Trio[;
 //You're the third one.[l
 //Watch the two before you carefully![;
 // --- Edited
-The world-famous[l
-Clappy Trio never[l
-misses a beat. Watch[l
-the other two![;
+Vous êtes le 3ème[l
+membre d'un trio de[l
+clappeurs, regardez[l
+bien vos camarades![;
 #WRITE(RtPtr, $9F1F74)
 // 0x805af14
 //オレたち、パチパチ三人衆[;
