@@ -4328,14 +4328,14 @@ likes toys![;
 // --- Literal
 //Cat Machine[;
 // --- Edited
-Meow Mixer[;
+DJ Miaou[;
 #WRITE(RtPtr, $9DD4B8)
 // 0x80594ec
 //うま マシーン[;
 // --- Literal
 //Horse Machine[;
 // --- Edited
-Mechanical Horse[;
+Cheval Mécanique[;
 #WRITE(RtPtr, $A0EEB4)
 // 0x805c684
 //あしおとに　あわせて[;
@@ -4597,7 +4597,7 @@ Mechanical Horse[;
 // --- Literal
 //(Love) Confession Machine[;
 // --- Edited
-Love Machine[;
+Test d'Amour[;
 #WRITE(RtPtr, $9DD4D8)
 // 0x80594cc
 //ラップ マシーン[;
@@ -4615,18 +4615,18 @@ Beat Box[;
 //How's your mood been lately?[l
 //If something is bothering you[l
 //come here for consultation.[;
-// --- Edited
-How's your mood[l
-been lately?[l
-Come here for[l
-a consultation.[;
+// --- Edited //Original translation contain heart in French, oh hell nah not putting another of these in the game -Shaffy
+Comment allez-vous?[l
+Venez parler avec[l
+le gérant pour[l
+une consultation.[;
 #WRITE(RtPtr, $9CE968)
 // 0x80526b8
 //喫茶カウンセル[;
 // --- Literal
 //Coffee-House Counsel[;
 // --- Edited
-Cafe[;
+Café[;
 //Start Game Text here
 #WRITE(RtPtr, $9CE348)
 // 0x805451c
@@ -4640,8 +4640,8 @@ Karatéka[;
 //カラテカ[;
 // --- Literal
 //Karate Master[;
-// --- Edited [[(I don't know where this name appears -Niko)
-[bKarate Man[;
+// --- Edited
+Ｋａｒａｔｅ　Ｍａｎ[;
 #WRITE(RtPtr, $9CE34C)
 // 0x80544dc
 //とんでくるモノを[l
@@ -5199,28 +5199,28 @@ bien vos camarades![;
 // --- Literal [[(I've edited in translations for the tutorial and the 'superb' comments from Youtube video reference, but I don't have the failure comments. I gave my copy of the game to my brother as a gift! You'll have to intentionally lose to get the fail messages. -Niko)
 //We're the Clap Clap Trio[;
 // --- Edited
-We're the Clappy Trio![;
+Salut! Nous sommes le trio clap clap![;
 #WRITE(RtPtr, $9F2040)
 // 0x805af30
 //等間隔で手拍子をするヨ[;
 // --- Literal
 //We clap at the same intervals.[;
 // --- Edited
-Nobody claps like us![;
+Notre truc, c'est de clapper en rythme.[;
 #WRITE(RtPtr, $9F20F4)
 // 0x805af48
 //あなたは３つめ担当です[;
 // --- Literal
 //You're in charge of the third beat/clap.[;
 // --- Edited
-You do the third clap, OK?[;
+Clappez en respectant les intervalles![;
 #WRITE(RtPtr, $9F21A8)
 // 0x805af60
 //では、練習してみましょう[;
 // --- Literal
 //OK then, let's practice[;
 // --- Edited
-Let's practice![;
+Vous avez compris? Alors, allons-y![;
 #WRITE(RtPtr, $9F225C)
 #WRITE(RtPtr, $9F258C)
 // 0x805af7c
@@ -5228,56 +5228,56 @@ Let's practice![;
 // --- Literal
 //(Hit the third part with the A button)[;
 // --- Edited
-(Press A to clap.)[;
+(Appuyez sur A au troisième clap.)[;
 #WRITE(RtPtr, $9F2400)
 // 0x805afa0
 //ＯＫ[;
 // --- Literal
 //OK[;
 // --- Edited
-OK.[;
+Parfait![;
 #WRITE(RtPtr, $9F2448)
 // 0x805afa8
 //そんなかんじ[;
 // --- Literal
 //In that manner (just like that)[;
 // --- Edited
-Just like that.[;
+Comme cela.[;
 #WRITE(RtPtr, $9F24C0)
 // 0x805afb8
 //少し、速くしてみます[;
 // --- Literal
 //Let's try it a little faster.[;
 // --- Edited
-Let's speed it up a bit.[;
+Allons un peu plus vite ![;
 #WRITE(RtPtr, $9F2748)
 // 0x805afd0
 //OK[;
 // --- Literal
 //OK[;
 // --- Edited
-OK.[;
+Oui! C'est très bien![;
 #WRITE(RtPtr, $9F279C)
 // 0x805afd4
 //それでは、本番です！[;
 // --- Literal
 //OK then, here's the real thing![;
 // --- Edited
-All right, it's showtime![;
+Cette fois, c'est du sérieux![;
 #WRITE(RtPtr, $9F0954)
 // 0x805af08
 //なかまの声[;
 // --- Literal
 //Friend's voices[;
 // --- Edited
-Peer Review[;
+Verdict de la ligue du clap :[;
 #WRITE(RtPtr, $9F08F0)
 // 0x805ae40
 //きほんが　できてないね。[;
 // --- Literal
 //Looks like you don't have the basics down, yeah?[;
 // --- Edited
-You need to focus on the basics.[;
+Il faut réapprendre les bases.[;
 #WRITE(RtPtr, $9F08EC)
 // 0x805ae5c
 //[;
@@ -5291,49 +5291,49 @@ You need to focus on the basics.[;
 // --- Literal
 //Looks like you're not good at the upbeats.[;
 // --- Edited
-You struggled with the syncopated parts.[;
+Vous ne savez pas clapper.[;
 #WRITE(RtPtr, $9F08FC)
 // 0x805ae7c
 //ウラが　サイコー！[;
 // --- Literal
 //The upbeats are fantastic![;
 // --- Edited
-Your syncopation sounded great![;
+Vos claps étaient géniaux![;
 #WRITE(RtPtr, $9F0910)
 // 0x805ae90
 //ゆったりするとこが　ヘンだ。[;
 // --- Literal
 //The calm/slow parts are... off.[;
 // --- Edited
-You missed more in the slow parts.[;
+Les claps lents sont ratés.[;
 #WRITE(RtPtr, $9F090C)
 // 0x805aeb0
 //ながれが　見えてる！[;
 // --- Literal
 //The flow can be seen![;
 // --- Edited
-You showed a great sense of flow.[;
+Tu as un bon sens du rythme.[;
 #WRITE(RtPtr, $9F0920)
 // 0x805aec8
 //いそがしくなると　ダメだねぇ…[;
 // --- Literal
 //It gets bad at the fast/busy parts...[;
 // --- Edited
-You couldn't keep up in the fast parts.[;
+Les claps rapides sont ratés.[;
 #WRITE(RtPtr, $9F091C)
 // 0x805aee8
 //いそがしいところが　カンペキ！[;
 // --- Literal
 //The fast/busy parts are perfect![;
 // --- Edited
-You were on top of the fast parts![;
+Tu as assuré lors des claps rapides![;
 #WRITE(RtPtr, $9CE3A0)
 // 0x8054340
 //この三人衆、 息ピッタリだ！！[;
 // --- Literal
 //This trio, is perfectly in sync!![;
 // --- Edited
-Trio-riffic![;
+Hip! Hip! Hip! Perruque![;
 #WRITE(RtPtr, $9CE39C)
 // 0x8054360
 //満足するのは まだ早いかもね。[;
@@ -5341,14 +5341,14 @@ Trio-riffic![;
 //It might be a little early to be satisfied.[;
 // --- Edited
 //You need to make it to more of our practice sessions...[;
-Please show up for more of our practice sessions.[;
+Ce n'est pas encore parfait...[;
 #WRITE(RtPtr, $9CE398)
 // 0x8054380
 //仲間が帰っちゃった！[;
 // --- Literal
 //Your friends went home![;
 // --- Edited
-The trio just went solo![;
+C'est le clap de fin...[;
 #WRITE(RtPtr, $9CE868)
 // 0x8052ad4
 //リミックス １[;
@@ -15560,14 +15560,14 @@ data! Is that really OK?[;
 // --- Literal
 //Sequence Test[;
 // --- Edited
-[;
+Ｄｅｂｕｇ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $1E38C)
 // 0x8059680
 //＊[;
 // --- Literal
 //＊[;
 // --- Edited
-[;
+＊[;
 #WRITE(RtPtr, $1E390)
 // 0x8059684
 //１／１[;
@@ -15581,226 +15581,226 @@ data! Is that really OK?[;
 // --- Literal
 //Data Clear[;
 // --- Edited
-Data Clear[;
+Ｄａｔａ　Ｃｌｅａｒ[;
 #WRITE(RtPtr, $9DDF4C)
 // 0x805969c
 //エンディング（おまけから）[;
 // --- Literal
 //Ending (From the Extras)[;
 // --- Edited
-[;
+Ｅｎｄｉｎｇ　（Ｅｘｔｒａｓ）[;
 #WRITE(RtPtr, $9DDF44)
 // 0x80596b8
 //エンディング（クリアご）[;
 // --- Literal
-//[;
+//Ending (From "clearing")[; //Remix 6 -Shaffy
 // --- Edited
-[;
+Ｅｎｄｉｎｇ　（Ｒｅｍｉｘ　６）[;
 #WRITE(RtPtr, $9DDF34)
 // 0x80596d4
 //Ｒ−ＩＱ　（おもちゃ）[;
 // --- Literal
-//[;
+//R-IQ (Toy)[;
 // --- Edited
-[;
+Ｒｈｙｔｈｍ　Ｔｏｙｓ[;
 #WRITE(RtPtr, $9DDF2C)
 // 0x80596ec
 //Ｒ−ＩＱ　（ドラムレッスン）[;
 // --- Literal
-//[;
+//R-IQ (Drum lessons)[;
 // --- Edited
-[;
+Ｄｒｕｍ　Ｌｅｓｓｏｎｓ[;
 #WRITE(RtPtr, $9DDF24)
 // 0x805970c
 //Ｒ−ＩＱ　（ミニゲーム）[;
 // --- Literal
-//[;
+//R-IQ (Mini games)[;
 // --- Edited
-[;
+Ｅｎｄｌｅｓｓ　Ｇａｍｅｓ[;
 #WRITE(RtPtr, $9DDF1C)
 #WRITE(RtPtr, $9DDF3C)
 // 0x8059728
 //Ｒ−ＩＱ　（カウンセラー）[;
 // --- Literal
-//[;
+//R-IQ (counselor)[;
 // --- Edited
-[;
+Ｃａｆｅ[;
 #WRITE(RtPtr, $9DDF14)
 // 0x8059744
 //Ｒ−ＩＱ　（パーフェクト）[;
 // --- Literal
-//[;
+//R-IQ (Perfect congratulations)[; //(Thanks temmie -Shaffy)
 // --- Edited
-[;
+Ｙｏｕ　ｇｏｔ　ａ　Ｐｅｒｆｅｃｔ！[;
 #WRITE(RtPtr, $9DDF0C)
 // 0x8059760
 //Ｒ−ＩＱ　（にゅうか）[;
 // --- Literal
-//[;
+//R-IQ (New)[; //Beta "Letter Get" Screen -Shaffy
 // --- Edited
-[;
+Ｎｅｗ[;
 #WRITE(RtPtr, $9DDF04)
 // 0x8059778
 //Ｒ−ＩＱ　（リザルト４）[;
 // --- Literal
-//[;
+//R-IQ (Result 4)[; //When launched goes to Title Screen
 // --- Edited
-[;
+Ｅｘｉｔ　Ｄｅｂｕｇ　Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDEFC)
 // 0x8059794
 //Ｒ−ＩＱ　（リザルト３）[;
 // --- Literal
-//[;
+//R-IQ (Result 3)[;
 // --- Edited
-[;
+Ｒｈｙｔｈｍ　Ｔｅｓｔ　Ｒｅｓｕｌｔ[;
 #WRITE(RtPtr, $9DDEF4)
 // 0x80597b0
 //Ｒ−ＩＱ　（リザルト２）[;
 // --- Literal
-//[;
+//R-IQ (Result 2)[;
 // --- Edited
-[;
+Ｄｅｂｕｇ　Ｒａｔｉｎｇ[;
 #WRITE(RtPtr, $9DDEEC)
 // 0x80597cc
 //Ｒ−ＩＱ　（リザルト）[;
 // --- Literal
-//[;
+//R-IQ (Result)[;
 // --- Edited
-[;
+Ｐｒｏｔｏｔｙｐｅ　Ｒａｔｉｎｇ[;
 #WRITE(RtPtr, $9DDEE4)
 // 0x80597e4
 //Ｒ−ＩＱ　（オプション）[;
 // --- Literal
-//[;
+//R-IQ (option)[;
 // --- Edited
-[;
+Ｏｐｔｉｏｎｓ[;
 #WRITE(RtPtr, $9DDEDC)
 // 0x8059800
 //Ｒ−ＩＱ　（スタジオ）[;
 // --- Literal
-//[;
+//R-IQ (studio)[;
 // --- Edited
-[;
+Ｓｔｕｄｉｏ[;
 #WRITE(RtPtr, $9DDED4)
 // 0x8059818
 //Ｒ−ＩＱ　（しりょうしつ）[;
 // --- Literal
-//[;
+//R-IQ (Library)[;
 // --- Edited
-[;
+Ｌｉｂｒａｒｙ[;
 #WRITE(RtPtr, $9DDECC)
 // 0x8059834
 //Ｒ−ＩＱ　（ゲーム）[;
 // --- Literal
-//[;
+//R-IQ (game)[;
 // --- Edited
-[;
+Ｇａｍｅ　Ｓｅｌｅｃｔ[;
 #WRITE(RtPtr, $9DDEC4)
 // 0x805984c
 //Ｒ−ＩＱ　（メニュー）[;
 // --- Literal
-//[;
+//R-IQ (menu)[;
 // --- Edited
-[;
+Ｍｅｎｕ[;
 #WRITE(RtPtr, $9DDEBC)
 // 0x8059864
 //Ｒ−ＩＱ　（タイトル）[;
 // --- Literal
-//[;
+//R-IQ (title)[;
 // --- Edited
-[;
+Ｔｉｔｌｅ　Ｓｃｒｅｅｎ[;
 #WRITE(RtPtr, $9DDEB4)
 // 0x805987c
 //カラテカ　２[;
 // --- Literal
 //Karate Master 2[;
 // --- Edited
-[;
-//[[More titles for studio?
+Ｋａｒａｔｅ　Ｍａｎ　２[;
+//Still Debug Menu.
 #WRITE(RtPtr, $9DDEA4)
 // 0x8059898
 //バリバリ３にんしゅう[;
 // --- Literal
 //Hard Working Trio[;
 // --- Edited
-Trio on Tour[;
+Ｔｒｉｏ　ｏｎ　Ｔｏｕｒ[;
 #WRITE(RtPtr, $9DDE9C)
 // 0x80598b0
 //パチパチ３にんしゅう[;
 // --- Literal
 //Clap Clap Trio[;
 // --- Edited
-Clappy Trio[;
+Ｃｌａｐｐｙ　Ｔｒｉｏ[;
 #WRITE(RtPtr, $9DDE94)
 // 0x80598c8
 //ポリリズム　２[;
 // --- Literal
 //Polyrhythm 2[;
 // --- Edited
-[;
+Ｐｏｌｙｒｈｙｔｈｍ　２[;
 #WRITE(RtPtr, $9DDE8C)
 // 0x80598d8
 //ポリリズム[;
 // --- Literal
 //Polyrhythm[;
 // --- Edited
-[;
+Ｐｏｌｙｒｈｙｔｈｍ[;
 #WRITE(RtPtr, $9DDE84)
 // 0x80598e4
 //ナイト　ウォーク　２[;
 // --- Literal
 //Night Walk 2[;
 // --- Edited
-[;
+Ｎｉｇｈｔ　Ｗａｌｋ　２[;
 #WRITE(RtPtr, $9DDE7C)
 // 0x80598fc
 //ナイト　ウォーク[;
 // --- Literal
 //Night Walk[;
 // --- Edited
-[;
+Ｎｉｇｈｔ　Ｗａｌｋ[;
 #WRITE(RtPtr, $9DDE74)
 // 0x8059910
 //リズムだつもう　２[;
 // --- Literal
 //Rhythm Hair Pluck 2[;
 // --- Edited
-Vegeta-Pull 2[;
+Ｖｅｇｅｔａ－Ｐｕｌｌ　２[;
 #WRITE(RtPtr, $9DDE6C)
 // 0x8059924
 //リズムだつもう[;
 // --- Literal
 //Rhythm Hair Pluck[;
 // --- Edited
-Vegeta-Pull[;
+Ｖｅｇｅｔａ－Ｐｕｌｌ[;
 #WRITE(RtPtr, $9DDE64)
 // 0x8059934
 //バイキン　はかせ[;
 // --- Literal
 //Professor Bacteria[;
 // --- Edited
-[;
+Ｓｉｃｋ　Ｂｅａｔｓ[;
 #WRITE(RtPtr, $9DDE5C)
 // 0x8059948
 //ホッピングロード　２[;
 // --- Literal
 //Hopping Road 2[;
 // --- Edited
-[;
+Ｈｏｐｐｉｎｇ　Ｒｏａｄ　２[;
 #WRITE(RtPtr, $9DDE54)
 // 0x8059960
 //ホッピングロード[;
 // --- Literal
 //Hopping Road[;
 // --- Edited
-[;
+Ｈｏｐｐｉｎｇ　Ｒｏａｄ[;
 #WRITE(RtPtr, $9DDE4C)
 // 0x8059974
 //ニンジャ　２[;
 // --- Literal
 //Ninja 2[;
 // --- Edited
-[;
+ninja2[;
 #WRITE(RtPtr, $9DDE44)
 // 0x8059984
 //ニンジャ[;
@@ -15814,14 +15814,14 @@ Vegeta-Pull[;
 // --- Literal
 //White Ghost/Specter 2[;
 // --- Edited
-Sneaky Spirits 2[;
+SneakySpirits2[;
 #WRITE(RtPtr, $9DDE34)
 // 0x80599a4
 //しろいおばけ[;
 // --- Literal
 //White Ghost/Specter[;
 // --- Edited
-Sneaky Spirits[;
+SneakySpirits[;
 #WRITE(RtPtr, $9DDE2C)
 // 0x80599b4
 //エアーバッター２[;
@@ -16337,9 +16337,9 @@ Dr. Bacteria EX[;
 // 0x8059f8c
 //／[;
 // --- Literal
-//[;
+//／[;
 // --- Edited
-[;
+／[;
 // 0x8059f92
 //[;
 // --- Literal

@@ -5,7 +5,7 @@
 .dw 0x089DD47C
 .endif
 .if _debugmenu==1 ;Thanks WindowsTiger
-.org 0x0801CFD4
+.org 0x089CE9C4
 .dw 0x089DDBCC
 .endif
 .org 0x08019A2C
