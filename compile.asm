@@ -2,7 +2,7 @@
 .open "Game/rh-atlus.gba","Game/rh-fra.gba", 0x08000000
 
 _skipwarningscreen equ 1
-_skiprhythmtest equ 0
+_skiprhythmtest equ 1
 _debug equ 1
 _debugmenu equ 1
 _nocashmessages equ 1

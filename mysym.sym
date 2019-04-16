@@ -1050,5 +1050,6 @@
 080B4EDC debug_unlockallstages_hook
 080B4EE8 debug_unlockallmail_hook
 080B4EF4 debug_99medals_hook
+08000454 .dbl:0004
 0801CFD4 .dbl:0004
 

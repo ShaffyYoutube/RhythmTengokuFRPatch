@@ -2,12 +2,14 @@
 // Compiled by pelrun in 2008
 // Edited by Spikeman 12/29/2010
 // More edits by W hat and SirNiko 08/2012
+// Translation in French by Shaffy 04/2019
 // [; is end of text and [l is a line break. sjis_2.tbl lists all supported characters and, at the end, formatting codes.
 // Line breaks don't always work. End-of-game comments, for example, don't support them.
 // [[ is a quick and great way to announce that something needs to be fixed, or looked at later. Ctrl-f for [[ to see existing examples.
 
 // Translators:
-// Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun
+// English: Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun
+// French: Shaffy, FireChat
 //
 #VAR(tbl, TABLE)
 #ADDTBL("sjis_2.tbl", tbl)
