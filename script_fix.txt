@@ -4665,19 +4665,18 @@ poings en cadence![;
 //[l
 //to the Karate Master game.[;
 // --- Edited
-Bienvenue![l
-Ceci est le jeu[l
-du Karatéka.[;
+Bienvenue,[l
+à votre entraînement[l
+de karaté.[;
 #WRITE(RtPtr, $9EF310)
 // 0x805ac0c
 //このゲームは、Aボタンで「モノ」をパンチするだけだけどもタイミングが超シビアです。[;
 // --- Literal
 //In this game, all you have to do is punch “things” by pressing the A button.  But the timing is super severe.[;
 // --- Edited
-In this game, all you[l
-have to do is punch[l
-stuff by pressing the[l
-A Button. Easy?[;
+Appuyer sur A pour  [l
+frapper les objets[l
+du poing.[;
 #WRITE(RtPtr, $9EF370)
 // 0x805ac60
 //まずは、とんでくる[l
@@ -4686,10 +4685,8 @@ A Button. Easy?[;
 // --- Literal
 //First, let's try squarely punching the incoming “things.”[;
 // --- Edited
-Well, the timing is very[l
-precise. Want to try it?[l
-First, let's try squarely[l
-punching some stuff.[;
+Cela ne doit pas[l
+être dur, non?[;
 #WRITE(RtPtr, $9EF4D8)
 // 0x805aca0
 //どう？[l
