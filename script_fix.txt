@@ -5366,10 +5366,10 @@ Remix 1[;
 //Want to try to test your merit?[l
 //Your experience so far speaks for itself, you know![;
 // --- Edited -(NP) means no practice. Text is limited!
-Want to test your[l
-merit? Your skill so[l
-far speaks for[l
-itself, you know! (NP)[;
+Dans ce remix...[l
+vous attendent les[l
+jeux que vous[l
+venez de faire! (SE)[;
 #WRITE(RtPtr, $9CE880)
 // 0x8052a2c
 //今回のデキ ： なんと、 ディナークラス！！[;
@@ -11668,14 +11668,14 @@ Today's trip was... pretty much a total wreck.[;
 // --- Literal
 //Rank  High Level[;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank           <color=gray><linestyle=2><style=purple><linestyle=7>Superb[;
+<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rang:    <color=gray><linestyle=2><style=purple><linestyle=7>Superb[;
 #WRITE(RtPtr, $9CF9F8)
 // 0x80548c8
 //<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>ランク <color=gray><linestyle=2><style=purple><linestyle=7>平凡[;
 // --- Literal
 //Rank  Average[;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank                      <color=gray><linestyle=2><style=purple><linestyle=7>OK[;
+<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rang:    <color=gray><linestyle=2><style=purple><linestyle=7>OK[;
 // 0x80548e7
 //[;
 // --- Literal
