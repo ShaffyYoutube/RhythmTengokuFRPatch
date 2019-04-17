@@ -11660,7 +11660,7 @@ Today's trip was... pretty much a total wreck.[;
 //リズムお習字 ２[;
 // --- Literal
 //Rhythm Penmanship/Calligraphy 2[;
-// --- Edited [[no such game, must be a leftover
+// --- Edited (leftover)
 [;
 #WRITE(RtPtr, $9CF9FC)
 // 0x80548a4
