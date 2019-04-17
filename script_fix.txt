@@ -4696,8 +4696,8 @@ Cela ne doit pas[l
 //How is it?[l
 //Did you see the severity of the timing?[;
 // --- Edited
-How'd you do?[l
-Do you understand the precise timing?[;
+Parfait. Le karaté[l
+vous va très bien.[;
 #WRITE(RtPtr, $9EF538)
 // 0x805acd8
 //つぎは、音楽にあわせて[l
@@ -4705,8 +4705,9 @@ Do you understand the precise timing?[;
 // --- Literal
 //Next, let's try punching to music![;
 // --- Edited
-Next, let's try[l
-jabbing to music![;
+Frapper maintenant[l
+les objets en rythme[l
+avec la musique.[;
 #WRITE(RtPtr, $9EF724)
 // 0x805ad04
 //どうですか？[l
@@ -4716,9 +4717,9 @@ jabbing to music![;
 //[l
 //Isn't it easier when you ride the music?[;
 // --- Edited
-How is it?[l
-Isn't it easier with[l
-music to guide you?[;
+Comment c'était?[l
+N'est ce pas plus[l
+facile avec la musique?[;
 #WRITE(RtPtr, $9EF784)
 // 0x805ad38
 //では、そんなカンジで[l
@@ -4728,10 +4729,9 @@ music to guide you?[;
 //Then, in that manner[l
 //Let's hit the “things” squarely while riding the music![;
 // --- Edited
-Let's follow the music[l
-and give whatever[l
-flies at you a nice,[l
-square punch![;
+Bonne chance,[l
+pour votre[l
+entraînement![;
 #WRITE(RtPtr, $9EF7F0)
 // 0x805ad80
 //[l
@@ -4739,8 +4739,8 @@ square punch![;
 // --- Literal
 //Real thing / Actually performance, START!![;
 // --- Edited
-Grunting might[l
-help too.[;
+A vos marques.[l
+Prêt... Frappez![;
 #WRITE(RtPtr, $9EDFCC)
 // 0x805abc4
 //[l
@@ -4748,22 +4748,23 @@ help too.[;
 // --- Literal
 //Don't forget to get into it![;
 // --- Edited
-Don't forget to[l
-get into it![;
+Souvenez-vous.[l
+Laissez le rythme[l
+venir à vous...[;
 #WRITE(RtPtr, $9EEF08)
 // 0x805abdc
 //師匠のおことば[;
 // --- Literal
 //Master's words[;
 // --- Edited
-Wisdom from the Master[;
+Votre maître vous mumure:[;
 #WRITE(RtPtr, $9EDF4C)
 // 0x805ab50
 //きほんが　できてない。[;
 // --- Literal
 //The basics are not set.[;
 // --- Edited
-Focus on the basics.[;
+Il faut réapprendre les bases.[;
 // 0x805ab6a
 //[;
 // --- Literal
@@ -4776,42 +4777,42 @@ Focus on the basics.[;
 // --- Literal
 //It seems that you're not good at the successive parts (one after another parts)[;
 // --- Edited
-Practice your one-two punches.[;
+Des coups de poing en guimauve...[;
 #WRITE(RtPtr, $9EDF58)
 // 0x805ab90
 //れんぞくパンチに　キレがある！[;
 // --- Literal
 //There's a slice (bite) to your successive punches![;
 // --- Edited
-Your one-two punches are great![;
+Ca pouvait aller...[;
 #WRITE(RtPtr, $9EDF68)
 // 0x805abb0
 //さいご キマってた！[;
 // --- Literal
 //You got (nailed) the last part![;
 // --- Edited
-You nailed the last part![;
+Quel punch dans ces coups de poings![;
 #WRITE(RtPtr, $9CE360)
 // 0x805448c
 //こんなに ブッとばしちゃった！！[;
 // --- Literal
 //You sent this much flying!![;
 // --- Edited
-You sent all of this flying!![;
+Le karaté, c'est toute ma vie.[;
 #WRITE(RtPtr, $9CE35C)
 // 0x80544ac
 //とりあえず、ごはん 食べとこう！[;
 // --- Literal
 //Let's eat first![;
 // --- Edited
-Let's break for lunch![;
+Rester... concentré![;
 #WRITE(RtPtr, $9CE358)
 // 0x80544cc
 //明日が あるさ。[;
 // --- Literal
 //There's always tomorrow.[;
 // --- Edited
-There's always tomorrow.[;
+La route est longue jusqu'au sommet...[;
 #WRITE(RtPtr, $9CE448)
 // 0x8053fa8
 //リズム脱毛[;
