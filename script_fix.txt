@@ -4192,14 +4192,14 @@ Game Over. Good job![;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Dr. Bacteria EX[;
+Ultra Labo Tempo[;
 #WRITE(RtPtr, $9DD56C)
 // 0x805951c
 //クイズ　スペシャル[;
 // --- Literal
 //Quiz Special[;
 // --- Edited
-Quiz EX[;
+L'Ultra-Quiz[;
 #WRITE(RtPtr, $A59EA0)
 // 0x8069990
 //こんばんは。[l
@@ -4298,8 +4298,8 @@ Goodbye![;
 //マネキン工場[;
 // --- Literal
 //Mannequin Factory[;
-// --- Edited [[need better name
-Head Spinner[;
+// --- Edited
+Tête à Claque[;
 #WRITE(RtPtr, $9CE988)
 // 0x805266c
 //おもちゃ[;

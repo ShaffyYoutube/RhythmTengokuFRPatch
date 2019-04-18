@@ -89,6 +89,7 @@ DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cdbacc_rap_tile1.bin Graphics/ToysMen
 DSDecmp.exe -c lz10 Graphics/ToysMenu/Toys/cdd0d4_love_tile1.bin Graphics/ToysMenu/Toys/cdd0d4_love_tile1
 DSDecmp.exe -c lz10 Graphics/EndlessMenu/games/c702d0_upbeat_tile1.bin Graphics/EndlessMenu/games/c702d0_upbeat_tile1
 DSDecmp.exe -c lz10 Graphics/EndlessMenu/games/c34478_head_tile1.bin Graphics/EndlessMenu/games/c34478_head_tile1
+DSDecmp.exe -c lz10 Graphics/RhythmGame/Nightwalk/c52420_night1_tile1.bin Graphics/RhythmGame/Nightwalk/c52420_night1_tile1
 rhcomp.exe Graphics/RhythmGame/CCCA5C_MiscGraphics.bin
 rhcomp.exe Graphics/EndlessMenu/cc4a00_endless_tilemap.bin
 rhcomp.exe Graphics/ToysMenu/cd931c_toys_screen_map.bin

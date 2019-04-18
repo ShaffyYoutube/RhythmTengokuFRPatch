@@ -1,6 +1,9 @@
+.org 0x08C52420
+.dw c52420_night1_tile1 |0x80000000
+;title
 .org 0x08BEBA58
 .dw beba58_night1_intro2 |0x80000000
-;title
+;title_assembly 
 .org 0x088ADBF4
 .import Graphics/RhythmGame/Nightwalk/8ADBF4_assembly0.bin
 .org 0x088ADECE
