@@ -1825,10 +1825,10 @@ Lady: “Do your best at the next show, too!”[;
 //good, I think, so[l
 //go ahead and enjoy~![;
 // --- Edited
-It's a live concert![l
-Your Sense of Rhythm[l
-is good, so you get[l
-to play in the band![;
+Jouez dans un[l
+des groupes de[l
+batteur et épatez[l
+le public![;
 //[[ This note is from 2010, not the latest batch of translators. EDITED TO HERE ****[;
 #WRITE(RtPtr, $9CEA08)
 // 0x8052528
@@ -1836,7 +1836,7 @@ to play in the band![;
 // --- Literal
 //Live[;
 // --- Edited
-Concert Hall[;
+Salle de Concert[;
 #WRITE(RtPtr, $9CE9EC)
 // 0x8052530
 //もし よかったら[l
@@ -1848,10 +1848,10 @@ Concert Hall[;
 //try and take a look.[l
 //They're this game's staff.[;
 // --- Edited
-If you have the time, [l
-take a look. They're[l
-the people who made[l
-the game.[;
+Voici les noms des[l
+personnes qui ont[l
+fait le jeu! Allez[l
+y jetter un oeil![;
 #WRITE(RtPtr, $9CE9E8)
 // 0x8052570
 //スタッフ[;
@@ -1870,17 +1870,17 @@ Credits[;
 //let's try to receive drum lessons.[l
 //Get good! Okay?[;
 // --- Edited
-Our game comes with[l
-free drum lessons![l
-You paid good money[l
-for them, so why not?[l
+Ce jeu propose[l
+des guides de[l
+batterie gratuites![l
+Essayez donc![l
 #WRITE(RtPtr, $9CE9C8)
 // 0x80525c4
 //ドラムレッスン[;
 // --- Literal
 //Drum Lesson[;
 // --- Edited
-Drum Lessons[;
+Guides de Batterie[;
 #WRITE(RtPtr, $9DD710)
 // 0x8059550
 //ハイテク　２[;
@@ -4036,7 +4036,7 @@ rhythm within your soul!![;
 // --- Literal
 //Game[;
 // --- Edited
-Endless Games[;
+Jeux infinis[;
 #WRITE(RtPtr, $9CE9AC)
 // 0x80525d4
 //メダルを あつめて[l
@@ -4048,17 +4048,17 @@ Endless Games[;
 //try to challenge a special game![l
 //There are a few of them, you know.[;
 // --- Edited
-Earn medals to[l
-unlock special[l
-games. See how[l
-far you can get![;
+Débloquez des[l
+mini-jeux et[l
+repoussez[l
+vos limites![;
 #WRITE(RtPtr, $9DD54C)
 // 0x8059544
 //ウラおとこ[;
 // --- Literal
 //Upbeat Guy[;
 // --- Edited
-Mr. Upbeat[;
+M. Contretemps[;
 #WRITE(RtPtr, $A56F74)
 // 0x8068170
 //またごう！[;
@@ -4306,7 +4306,7 @@ Head Spinner[;
 // --- Literal
 //Toys[;
 // --- Edited
-Rhythm Toys[;
+Jouets musicaux[;
 #WRITE(RtPtr, $9CE98C)
 // 0x8052624
 //メダルを あつめて[l
@@ -4318,10 +4318,10 @@ Rhythm Toys[;
 //play with noise making toys![l
 //There are a few of them, you know.[;
 // --- Edited
-Collect medals[l
-to play with more[l
-toys. Everyone[l
-likes toys![;
+Venez vous[l
+amuser! Tout[l
+le monde aime[l
+les jouets, non?[;
 #WRITE(RtPtr, $9DD4A8)
 // 0x80594fc
 //ネコ マシーン[;
@@ -16309,21 +16309,21 @@ Mr. Upbeat[;
 // --- Literal
 //Mannequin FActory[;
 // --- Edited
-Head Spinner[;
+Tête à Claque[;
 #WRITE(RtPtr, $9DDBFC)
 // 0x8059f54
 //クイズ（スペシャル）[;
 // --- Literal
 //Quiz (Special)[;
 // --- Edited
-Quiz EX[;
+L'Ultra-Quiz[;
 #WRITE(RtPtr, $9DDBF4)
 // 0x8059f6c
 //バイキン　はかせ　ＳＰ[;
 // --- Literal
 //Professor Bacteria SP[;
 // --- Edited
-Dr. Bacteria EX[;
+Ultra Labo Tempo[;
 #WRITE(RtPtr, $9DDBEC)
 // 0x8059f84
 //ライブ[;
