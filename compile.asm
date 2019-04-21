@@ -3,9 +3,8 @@
 
 _skipwarningscreen equ 1
 _skiprhythmtest equ 1
-_debug equ 1
+_debug equ 0
 _debugmenu equ 0
-; Concert Hall is the entrypoint
 _nocashmessages equ 1
 _luaconsolemessages equ 1
 _spriteluaconsolemessages equ 1
