@@ -34,11 +34,9 @@
 .import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD960_assembly1.bin
 .align 2
 .org 0x088ADA88
-.dw XD39966_assembly2
+.dw X8AD974_assembly2
 .org 0x088ADA90
-.dw XD39992_assembly3
-.org 0x088ADA98
-.dw X8AD9D2_assembly4
+.dw X8AD99A_assembly3
 .org 0x088AD9D2
 .import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD9D2_assembly4.bin
 ;Foot (Tip of toe was overwritten by "Man" text)

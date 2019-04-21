@@ -41,12 +41,9 @@ X8ACB62_assembly3:
 .import Graphics/RhythmGame/KarateMan1/Game/8ACB62_assembly3.bin
 ;Intro Stuff
 .align 2
-XD39966_assembly2:
-.import Graphics/RhythmGame/KarateMan1/Intro/Text/D39966_assembly2.bin
+X8AD974_assembly2:
+.import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD974_assembly2.bin
 .align 2
-XD39992_assembly3:
-.import Graphics/RhythmGame/KarateMan1/Intro/Text/D39992_assembly3.bin
-.align 2
-X8AD9D2_assembly4:
-.import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD9D2_assembly4.bin
+X8AD99A_assembly3:
+.import Graphics/RhythmGame/KarateMan1/Intro/Text/8AD99A_assembly3.bin
 ;eof
